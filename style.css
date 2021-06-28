@@ -1,0 +1,143 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-item{
+    margin-left: 50px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: bolder;
+}
+.navbar{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.padd{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.padd1{
+    padding-bottom: 60px;
+}
+.padd1 h2{
+    text-align: center;
+}
+.padd2{
+    padding-top: 50px;
+}
+.signin-btn{
+    margin: auto;
+    padding: 13px 30px 5px 30px;
+    text-align: center;
+    border-radius: 25px;
+    border: none;
+    background: #21B573;
+    color: white;
+}
+.col-md-7 img{
+    width: 90%;
+    height: 100%;
+}
+.col-md-4{
+    padding-right: 30px;
+}
+.col-md-4 h1{
+    font-weight: bolder;
+    line-height: 70px;
+    font-size: 48px;
+}
+.col-md-4 p{
+    line-height: 36px;
+}
+#red-col{
+    color: #FD511A;
+}
+#grn-col{
+    color: #21B573;
+}
+.home{
+    background-color: #F0FFF0;
+}
+#ad1{
+    width: 66px;
+    height: 85px;
+}
+#ad2{
+    width: 80px;
+    height: 83px;
+}
+#ad3{
+    width: 75px;
+    height: 80px;
+}
+#ad4{
+    width: 68px;
+    height: 76px;
+}
+.col-md-3{
+    height: 270px;
+    width: 270px;
+}
+.ad{
+    margin: 0 28px;
+    background-color: #F0FFF0;
+    border-radius: 10px;
+    transition: .4s;
+}
+.ad:hover{
+    background-color: white;
+    box-shadow: 5px 5px 20px rgb(129, 124, 124);
+}
+.seats img{
+    width: 24px;
+    height: 24px;
+}
+.date img{
+    width: 24px;
+    height: 24px;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.date h6{
+    padding: 2px 0 0 5px;
+}
+.seats h6{
+    padding: 2px 0 0 5px;
+}
+.pic img{
+    width: 90%;
+    height: 90%;
+}
+.pic{
+    padding-top: 20px;
+}
+.col-md-2 img{
+    width: 80%;
+    height: 100%;
+    box-shadow: 1px 1px 5px rgb(129, 124, 124);
+    border-radius: 50%;
+}
+.col-md-6 h6{
+    line-height: 36px;
+}
+footer{
+    padding: 20px 0;
+    text-align: center;
+}
+.padd2{
+    color: white;
+    background-color: #282531;
+}
+.card{
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgb(197, 189, 189);
+}
+.card-footer{
+    background-color: transparent;
+}
+.foot-1 h6,.foot-2{
+    line-height: 36px;
+}
